@@ -2,9 +2,9 @@
   "name": "week-9",
   "version": "1.0.0",
   "description": "A demonstration serverto show the use of hashing to using Bcrypt",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/server.js"
   },
   "author": "Zaid",
   "license": "ISC",
